@@ -1,0 +1,5 @@
+{
+	"desktop_notifications.title": "订阅通知",
+    "desktop_notifications.message": "<strong>%1</strong> 需要您的许可才能激活订阅通知,点击此处激活。",
+    "desktop_notifications.ignored": "订阅通知已被禁用,您可以通过用户个人资料设置页面重新启用此功能。"
+}
